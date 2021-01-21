@@ -1,0 +1,9 @@
+Skripta se pokreće bez parametara.
+
+Kontrole očišta: 'y', 'x', 'c', 'v', 'b', 'n', 'a'
+
+Kontrole broja čestica: 's', 'd'
+
+Pozicioniranje u sustav čestica: 'f'
+
+Kontrola vjetra: 'q', 'w', 'e', 'r', 't', 'z', 'u'
